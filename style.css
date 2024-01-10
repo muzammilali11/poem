@@ -1,0 +1,19 @@
+body{
+    background-image: url(./poem.jpg);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-attachment: fixed; 
+    background-size: contain;
+}
+header  {
+    padding: 30px;
+    text-align: center;
+    background:tomato;
+    font-size: 30px;
+  }
+
+  a{
+    color: #fff;
+    margin:10%;
+    text-decoration: none;
+  }

@@ -1,0 +1,47 @@
+body {
+  background-color: rgb(120, 173, 235);
+}
+
+#outer {
+  background-image: url(./c416725d60a42c01c87c58a396e19785dd8b381be125c5445615a0f3cb44afd7.jpg);
+  background-position: right top;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: contain;
+}
+
+#inner {
+  background-image: url(./c416725d60a42c01c87c58a396e19785dd8b381be125c5445615a0f3cb44afd7.jpg);
+  background-position: left top;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: contain;
+}
+header  {
+  padding: 30px;
+  text-align: center;
+  background: #1a78bc;
+  font-size: 30px;
+}
+
+a{
+  color: #fff;
+  margin:10%;
+  text-decoration: none;
+}
+
+#poem {
+  font-family: "Courier New", Courier, monospace;
+  font-size: large;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+h1 {
+  color: yellow;
+  text-align: center;
+}
+
+pre {
+  color: #fff;
+}

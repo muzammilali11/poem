@@ -1,0 +1,39 @@
+body {
+  background-color: rgba(16, 160, 160, 0.667);
+}
+
+#heading {
+  text-align: center;
+  font-size: xx-large;
+  font-style: oblique;
+  color: rgb(72, 13, 145);
+}
+
+#poem {
+  text-align: center;
+  font-style: italic;
+  font-size: xx-large;
+}
+img {
+  width: 400px;
+  height: 400px;
+  margin-top: -15%;
+}
+
+.img {
+  float: right;
+  margin-top: -25%;
+}
+
+header  {
+  padding: 30px;
+  text-align: center;
+  background: #42b0d5;
+  font-size: 30px;
+}
+
+a{
+  color: #fff;
+  margin:10%;
+  text-decoration: none;
+}
